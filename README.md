@@ -1,139 +1,50 @@
-<!-- ===================== HEADER ===================== -->
-<p align="center">
-  <img width="900" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6F2DBD&height=200&section=header&text=Kush%20Dharmesh%20Modi&fontSize=42&fontColor=ffffff&animation=fadeIn" />
-</p>
+<div align="center">
+ 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Kush%20Dharmesh%20Modi&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&descAlignY=60&descAlign=50" />
 
-<h3 align="center">
-Cybersecurity • Machine Learning • AI Systems Engineering
-</h3>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=33CCFF&center=true&vCenter=true&width=435&lines=Cybersecurity+%7C+AI+Systems+%7C+ML;Building+Reliable+Autonomous+Systems;Bug+Hunter+%26+Researcher" alt="Typing SVG" />
+  </a>
 
-<p align="center">
-I build security-critical and ML-driven systems where correctness, reliability, and real-world impact matter.
-</p>
+  <br/><br/>
 
-<p align="center">
-  <a href="https://portfolio-kushmodi.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=About.me&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,opencv,scikitlearn,selenium,solidity,react,nodejs,linux,docker,git,gcp,aws&perline=15&theme=dark" />
+  </a>
+
+  <br/><br/>
+
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kush-Modi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kush-Modi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" alt="languages" />
+  </div>
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kush-Modi&theme=tokyonight&hide_border=true" alt="streak" />
+
+</div>
+
+<br/>
+
+### ⚡ Featured Works
+
+| 🔮 **Project** | 🛠️ **Stack** |
+| :--- | :--- |
+| **[Nomos - AI Legal Assistant](https://nomosbot.netlify.app)** <br> _RAG-based Legal LLM_ | `LangChain` `Python` `React` |
+| **Blockchain Med-Verify** <br> _Anti-Counterfeit Supply Chain_ | `Solidity` `Web3.js` `Truffle` |
+| **Deepfake Detection** <br> _Video Authenticity Analysis_ | `TensorFlow` `CNN` `OpenCV` |
+
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/kush-modi-647b73372/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:kushmodi.0505@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/kush-modi-647b73372/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://portfolio-kushmodi.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-</p>
-
----
-
-## About Me
-
-I am an engineering student specializing in **Cybersecurity**, with strong interests in **Machine Learning, Deep Learning, and AI system design**.  
-My focus is on building **robust, interpretable, and security-aware ML systems**, especially in environments where failures are costly.
-
-I have completed **research internships at NIT Warangal and C-DAC Hyderabad**, working on:
-- Machine learning for security and anomaly detection  
-- Autonomous and intelligent systems  
-- Practical ML pipelines deployed in constrained or high-risk environments  
-
-I enjoy working at the intersection of **theory, implementation, and deployment** rather than toy projects.
-
----
-
-## Core Interests
-
-- AI Security and Adversarial ML  
-- LLM reliability, RAG systems, and agent architectures  
-- Malware analysis and automated threat detection  
-- Blockchain systems for trust, integrity, and verification  
-- Applied deep learning for real-world signals (vision, text, security logs)
-
----
-
-## Skills & Tooling
-
-**Languages**
-- Python, Java, JavaScript, SQL  
-
-**Machine Learning & AI**
-- Scikit-learn, TensorFlow, Keras, PyTorch  
-- CNNs, classical ML models, feature engineering  
-- Retrieval Augmented Generation (RAG) pipelines  
-- Model evaluation, robustness testing, and failure analysis  
-
-**Cybersecurity**
-- Malware analysis fundamentals  
-- Vulnerability analysis and secure system design  
-- Web security, automation, and adversarial thinking  
-
-**Systems & Web**
-- React.js, Node.js, Express  
-- Firebase, REST APIs  
-- Blockchain basics (Ethereum / Polygon testnets)  
-
----
-
-## Featured Projects
-
-### Nomos – AI Legal Assistant
-A production-style AI system designed for **reliable legal assistance**, not just raw LLM output.
-
-**Key highlights**
-- Retrieval-augmented generation (RAG) for grounded responses  
-- Multi-agent reasoning where agents critique and refine answers  
-- Final response selection based on consensus and confidence  
-
-Live demo: https://nomosbot.netlify.app  
-
----
-
-### Other Notable Work
-
-- **Blockchain-based Prescription & Medicine Verification System**  
-  Secure prescription storage with on-chain hashes and QR-based verification to prevent counterfeit drugs.
-
-- **Object & Anomaly Detection using YOLO-based Pipelines**  
-  Real-time detection systems with dataset curation and performance tuning.
-
-- **CAPTCHA Automation using CNN + Selenium**  
-  End-to-end pipeline including preprocessing, model inference, and browser automation.
-
----
-
-## GitHub Statistics
-
-> If stats do not appear immediately, GitHub sometimes rate-limits or caches requests.  
-> Refresh after a few minutes or view in light/dark mode.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kush-Modi&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kush-Modi&layout=compact&theme=transparent&hide_border=true" height="170" />
-</p>
-
----
-
-## Certifications
-
-- Google Cloud Skills Boost  
-- Google Cybersecurity Certificate  
-- NPTEL – Blockchain and Its Applications  
-
----
-
-## Currently Exploring
-
-- AI safety and security for LLM-based systems  
-- Research-driven engineering roles and fast-paced startups  
-- Problems where ML meets trust, scale, and adversarial environments  
-
----
-
-<p align="center">
-  <i>
-  Engineering systems that are secure, reliable, and useful in the real world.
-  </i>
-</p>
-
-<!-- ===================== FOOTER ===================== -->
-<p align="center">
-  <img width="900" src="https://capsule-render.vercel.app/api?type=waving&color=0:6F2DBD,100:0A66C2&height=120&section=footer" />
-</p>
+</div>
