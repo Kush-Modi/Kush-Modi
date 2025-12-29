@@ -1,50 +1,75 @@
 <div align="center">
- 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Kush%20Dharmesh%20Modi&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&descAlignY=60&descAlign=50" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=33CCFF&center=true&vCenter=true&width=435&lines=Cybersecurity+%7C+AI+Systems+%7C+ML;Building+Reliable+Autonomous+Systems;Bug+Hunter+%26+Researcher" alt="Typing SVG" />
-  </a>
+<!-- ===================== HEADER ===================== -->
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Kush%20Dharmesh%20Modi&fontSize=64&fontAlignY=35&animation=twinkling&fontColor=ffffff"
+/>
 
-  <br/><br/>
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,opencv,scikitlearn,selenium,solidity,react,nodejs,linux,docker,git,gcp,aws&perline=15&theme=dark" />
-  </a>
-
-  <br/><br/>
-
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kush-Modi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kush-Modi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" alt="languages" />
-  </div>
-
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kush-Modi&theme=tokyonight&hide_border=true" alt="streak" />
-
-</div>
+<!-- ===================== TYPING TEXT ===================== -->
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=33CCFF&center=true&vCenter=true&multiline=true&width=900&height=80&lines=Cybersecurity+%7C+AI+Systems+%7C+Machine+Learning;Building+Reliable+and+Secure+AI+Systems;Bug+Hunter+%7C+Research-Oriented+Engineer"
+    alt="Typing SVG"
+  />
+</a>
 
 <br/>
 
-### ⚡ Featured Works
-
-| 🔮 **Project** | 🛠️ **Stack** |
-| :--- | :--- |
-| **[Nomos - AI Legal Assistant](https://nomosbot.netlify.app)** <br> _RAG-based Legal LLM_ | `LangChain` `Python` `React` |
-| **Blockchain Med-Verify** <br> _Anti-Counterfeit Supply Chain_ | `Solidity` `Web3.js` `Truffle` |
-| **Deepfake Detection** <br> _Video Authenticity Analysis_ | `TensorFlow` `CNN` `OpenCV` |
+<p align="center" width="80%">
+Engineering student focused on <b>Cybersecurity and AI Systems</b>, with hands-on experience in
+<b>machine learning, autonomous systems, and security-driven engineering</b>.
+I build systems where correctness, robustness, and real-world impact matter more than demos.
+</p>
 
 <br/>
+
+<!-- ===================== PORTFOLIO ===================== -->
+<a href="https://portfolio-kushmodi.vercel.app/">
+  <img
+    src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Portfolio"
+  />
+</a>
+
+<br/><br/>
+
+<!-- ===================== TECH STACK ===================== -->
+<img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,opencv,scikitlearn,selenium,solidity,react,nodejs,linux,docker,git,aws&perline=7&theme=dark" />
+
+<br/><br/>
+
+
+## Featured Work
+
+| Project | Description | Tech Stack |
+|------|------------|-----------|
+| **Nomos – AI Legal Assistant** | Retrieval-augmented, multi-agent LLM system focused on correctness and reliability | Python, LangChain, React |
+| **Blockchain Med-Verify** | Anti-counterfeit medicine verification using on-chain integrity and QR workflows | Solidity, Web3.js |
+| **Deepfake Detection System** | Video authenticity analysis using CNN-based pipelines | TensorFlow, OpenCV |
+
+---
+
+## Current Focus
+
+- AI security and adversarial machine learning  
+- LLM reliability, RAG pipelines, and agent-based reasoning  
+- Malware analysis and automated detection  
+- Blockchain-backed trust systems  
+- Research-driven engineering and fast-paced startups  
+
+---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kush-modi-647b73372/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:kushmodi.0505@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://portfolio-kushmodi.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+
+<a href="https://www.linkedin.com/in/kush-modi-647b73372/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:kushmodi.0505@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<i>Engineering systems that are secure, reliable, and useful beyond the demo stage.</i>
+
 </div>
