@@ -8,7 +8,7 @@
 <!-- ===================== TYPING TEXT ===================== -->
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=33CCFF&center=true&vCenter=true&multiline=true&width=900&height=80&lines=Cybersecurity+%7C+AI+Systems+%7C+Machine+Learning;Building+Reliable+and+Secure+AI+Systems;Bug+Hunter+%7C+Research-Oriented+Engineer"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=33CCFF&center=true&vCenter=true&multiline=true&width=900&height=80&lines=Cybersecurity+%7C+AI+Systems+%7C+Machine+Learning;Building+Reliable+and+Secure+AI+Systems"
     alt="Typing SVG"
   />
 </a>
