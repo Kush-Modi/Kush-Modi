@@ -1,89 +1,139 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=001F3F&height=220&section=header&text=Kush%20Dharmesh%20Modi&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20AI%20Systems&descAlignY=55&descSize=20" alt="Header" />
-</div>
+<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <img width="900" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6F2DBD&height=200&section=header&text=Kush%20Dharmesh%20Modi&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<div align="center">
-  <h3>Engineering systems that are reliable, secure, and robust.</h3>
-  <br />
-</div>
+<h3 align="center">
+Cybersecurity • Machine Learning • AI Systems Engineering
+</h3>
 
-<table align="center" style="border: none;">
-  <tr>
-    <td width="50%" valign="top" style="border: none;">
-      <h2>About Me</h2>
-      <p>
-        I am an engineering student at the intersection of <b>Cybersecurity</b> and <b>Artificial Intelligence</b>. I specialize in building autonomous systems where safety and correctness are paramount.
-      </p>
-      <p>
-        Currently, I am exploring <b>AI Security</b> and <b>LLM Reliability</b>, with previous research experience at:
-      </p>
-      <ul>
-        <li><b>NIT Warangal</b> (Research Intern)</li>
-        <li><b>C-DAC Hyderabad</b> (Research Intern)</li>
-      </ul>
-      <p>
-        I am looking to contribute to fast-paced startups or research teams focused on real-world ML deployment.
-      </p>
-    </td>
-    <td width="50%" valign="top" style="border: none;">
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Kush-Modi&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Kush's Stats" />
-        <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kush-Modi&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Top Languages" />
-      </div>
-    </td>
-  </tr>
-</table>
+<p align="center">
+I build security-critical and ML-driven systems where correctness, reliability, and real-world impact matter.
+</p>
 
----
-
-<div align="center">
-  <h2>Technical Arsenal</h2>
-  <br />
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,scikitlearn&perline=10" />
-    </a>
-    <br />
-    <br />
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,nodejs,react,git,docker,gcp,linux,solidity&perline=10" />
-    </a>
-  </p>
-</div>
-
----
-
-<h2>Featured Projects</h2>
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Nomos – AI Legal Assistant** | An LLM system utilizing RAG workflows and multi-agent reasoning to provide reliable legal consultation and answers. <br/> [🔗 Live Demo](https://nomosbot.netlify.app) | `Python` `LangChain` `LLMs` `RAG` |
-| **Blockchain Med-Verify** | A decentralized prescription and medicine verification system preventing fraud in the pharmaceutical supply chain. | `Solidity` `Blockchain` `Web3.js` |
-| **YOLOv8 Anomaly Detection** | Real-time object and anomaly detection system optimized for security surveillance feeds. | `YOLOv8` `OpenCV` `Python` |
-| **CAPTCHA Automation** | Automated solver using Convolutional Neural Networks (CNN) combined with Selenium for browser automation. | `CNN` `TensorFlow` `Selenium` |
-
----
-
-<h2>Certifications</h2>
-
-* **Google Cloud Skills Boost** | Cloud Architecture & Deployment
-* **Google Cybersecurity Certificate** | Network Security & Risk Assessment
-* **NPTEL** | Blockchain and its Applications
-
----
-
-<div align="center">
-  <h2>Let's Connect</h2>
-  <p>Open to collaborations on AI Safety and Security Research.</p> 
-  
+<p align="center">
+  <a href="https://portfolio-kushmodi.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
   <a href="mailto:kushmodi.0505@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/kush-modi-647b73372/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://portfolio-kushmodi.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-</div>
+</p>
+
+---
+
+## About Me
+
+I am an engineering student specializing in **Cybersecurity**, with strong interests in **Machine Learning, Deep Learning, and AI system design**.  
+My focus is on building **robust, interpretable, and security-aware ML systems**, especially in environments where failures are costly.
+
+I have completed **research internships at NIT Warangal and C-DAC Hyderabad**, working on:
+- Machine learning for security and anomaly detection  
+- Autonomous and intelligent systems  
+- Practical ML pipelines deployed in constrained or high-risk environments  
+
+I enjoy working at the intersection of **theory, implementation, and deployment** rather than toy projects.
+
+---
+
+## Core Interests
+
+- AI Security and Adversarial ML  
+- LLM reliability, RAG systems, and agent architectures  
+- Malware analysis and automated threat detection  
+- Blockchain systems for trust, integrity, and verification  
+- Applied deep learning for real-world signals (vision, text, security logs)
+
+---
+
+## Skills & Tooling
+
+**Languages**
+- Python, Java, JavaScript, SQL  
+
+**Machine Learning & AI**
+- Scikit-learn, TensorFlow, Keras, PyTorch  
+- CNNs, classical ML models, feature engineering  
+- Retrieval Augmented Generation (RAG) pipelines  
+- Model evaluation, robustness testing, and failure analysis  
+
+**Cybersecurity**
+- Malware analysis fundamentals  
+- Vulnerability analysis and secure system design  
+- Web security, automation, and adversarial thinking  
+
+**Systems & Web**
+- React.js, Node.js, Express  
+- Firebase, REST APIs  
+- Blockchain basics (Ethereum / Polygon testnets)  
+
+---
+
+## Featured Projects
+
+### Nomos – AI Legal Assistant
+A production-style AI system designed for **reliable legal assistance**, not just raw LLM output.
+
+**Key highlights**
+- Retrieval-augmented generation (RAG) for grounded responses  
+- Multi-agent reasoning where agents critique and refine answers  
+- Final response selection based on consensus and confidence  
+
+Live demo: https://nomosbot.netlify.app  
+
+---
+
+### Other Notable Work
+
+- **Blockchain-based Prescription & Medicine Verification System**  
+  Secure prescription storage with on-chain hashes and QR-based verification to prevent counterfeit drugs.
+
+- **Object & Anomaly Detection using YOLO-based Pipelines**  
+  Real-time detection systems with dataset curation and performance tuning.
+
+- **CAPTCHA Automation using CNN + Selenium**  
+  End-to-end pipeline including preprocessing, model inference, and browser automation.
+
+---
+
+## GitHub Statistics
+
+> If stats do not appear immediately, GitHub sometimes rate-limits or caches requests.  
+> Refresh after a few minutes or view in light/dark mode.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kush-Modi&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kush-Modi&layout=compact&theme=transparent&hide_border=true" height="170" />
+</p>
+
+---
+
+## Certifications
+
+- Google Cloud Skills Boost  
+- Google Cybersecurity Certificate  
+- NPTEL – Blockchain and Its Applications  
+
+---
+
+## Currently Exploring
+
+- AI safety and security for LLM-based systems  
+- Research-driven engineering roles and fast-paced startups  
+- Problems where ML meets trust, scale, and adversarial environments  
+
+---
+
+<p align="center">
+  <i>
+  Engineering systems that are secure, reliable, and useful in the real world.
+  </i>
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <img width="900" src="https://capsule-render.vercel.app/api?type=waving&color=0:6F2DBD,100:0A66C2&height=120&section=footer" />
+</p>
